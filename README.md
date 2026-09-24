@@ -2,7 +2,7 @@
 
 > Organizador de estudos com Ciclo Pomodoro, inspirado visualmente no site [imissmycafe.com](https://imissmycafe.com).
 
-Projeto desenvolvido para a disciplina de **Programação Web 2**, do professor **Marcello Collado**.
+Projeto desenvolvido para a disciplina de **Programação Web 2**, efetuada pelo professor **Marcello Collado**.
 
 ---
 
@@ -141,6 +141,7 @@ estudos-cafe/
 
 ## 👨‍🏫 Créditos
 
+- **Aluna:** Nicolly Lucia da Silva
 - **Professor:** Marcello Collado
 - **Disciplina:** Programação Web 2
 - **Inspiração visual:** [imissmycafe.com](https://imissmycafe.com) criado por **ifthencreate**
