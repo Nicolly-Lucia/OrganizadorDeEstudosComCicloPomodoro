@@ -131,11 +131,6 @@ estudos-cafe/
 - Modo escuro ativado por botão no canto superior direito
 - Nuvens de vapor animadas sobre o timer
 - 
----
-
-## 🎥 Vídeo de Apresentação
-
-
 
 ---
 
